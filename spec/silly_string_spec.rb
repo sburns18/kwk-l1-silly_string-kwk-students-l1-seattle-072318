@@ -1,1 +1,1 @@
-rb "Hello".upcase
+puts "Hello".upcase
